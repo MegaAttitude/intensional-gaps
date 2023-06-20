@@ -8,7 +8,7 @@ the following paper:
 If you use any of the code found in this directory, please cite that
 paper as well as this repository.
 
-> White, A.S. 2021. MegaAttitude/intensional-gaps: Analysis Code for "Intensional Gaps".
+> White, Aaron Steven. 2021. MegaAttitude/intensional-gaps: Analysis Code for "Intensional Gaps".
 
 ## Environment
 
