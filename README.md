@@ -3,7 +3,7 @@
 This repository contains the code for replicating the analyses from
 the following paper:
 
-> Kane, B., W. Gantt, and Aaron Steven White. accepted. [Intensional Gaps: Relating veridicality, doxasticity, bouleticity, and neg-raising](https://ling.auf.net/lingbuzz/005930/current.pdf). _Semantics and Linguistic Theory 31_.
+> Kane, Benjamin, Will Gantt, and Aaron Steven White. 2022. Intensional Gaps: Relating Veridicality, Factivity, Doxasticity, Bouleticity, and Neg-Raising. *Semantics and Linguistic Theory* 31: 570–605. [https://doi.org/10.3765/salt.v31i0.5137](https://doi.org/10.3765/salt.v31i0.5137).
 
 If you use any of the code found in this directory, please cite that
 paper as well as this repository.
